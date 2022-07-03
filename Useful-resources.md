@@ -20,3 +20,6 @@
 - [GulpJS](https://gulpjs.com/)
 - [WebpackJS](https://webpack.js.org)
 - [GruntJS](gruntjs.com)
+- [Minifer.org](minifier.org)
+- [CodeBeatufiy](codebeautify.org)
+- 
